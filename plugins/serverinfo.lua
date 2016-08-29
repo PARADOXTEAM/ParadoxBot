@@ -6,7 +6,7 @@ end
   end
 return {
   patterns = {
-'^[#!/]([Dd][Oo][Oo][Ss][Tt][Ii][Hh][Aa])$'
+'^[#!/]([Pp][Aa][Rr][Aa][Dd][Oo][Xx][Bb][Oo][Tt]])$'
   },
   run = run,
   moderated = true
